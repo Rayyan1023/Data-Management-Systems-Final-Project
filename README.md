@@ -1,5 +1,5 @@
 # Data-Management-Systems-Final-Project
-## University Database Systems
+# University Database Systems
 ## Rayyan Mohammed (100752351)
 ## Daniyal Khan (100750029)
 ## Mohammad Khalid (100746801)
