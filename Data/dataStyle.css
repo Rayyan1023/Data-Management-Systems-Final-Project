@@ -1,0 +1,42 @@
+body{
+    background-color: #AFEEEE;
+    font-family: "Lucida Console", Courier, monospace;
+
+    }
+
+#box{
+    max-width: 500px;
+        float: none;
+        margin: 150px auto;
+        border-style: solid; 
+}
+
+#login{
+    background-color: #FFFFFF;
+    padding: 20px;
+
+}
+
+#sign{
+    background-color: #DCDCDC;
+    padding: 20px;
+
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30pt;
+}
+
+label{
+    color: red;
+    font-size: 15pt;
+
+}
+
+button{
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
